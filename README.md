@@ -1,19 +1,19 @@
-<h1 align="center">Hi ??, I'm Madhuri Madineni</h1>
+<h1 align="center">Hi 👋, I'm Madhuri Madineni</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhuri04m&label=Profile%20views&color=0e75b6&style=flat" alt="madhuri04m" /> </p>
 
-- ?? I�m currently learning **Mern-Full Stack Development,Google Cloud Skills Boost**
+- 🌱 I’m currently learning **Mern-Full Stack Development,Google Cloud Skills Boost**
 
-- ????? All of my projects are available at [https://linktr.ee/madhuri_21](https://linktr.ee/madhuri_21)
+- 👨‍💻 All of my projects are available at [https://linktr.ee/madhuri_21](https://linktr.ee/madhuri_21)
 
-- ?? Ask me about **react,gccf,HTMl/CSS,Kubernets**
+- 💬 Ask me about **react,gccf,HTMl/CSS,Kubernets**
 
-- ?? How to reach me **madhurimadineni2004@gmail.com**
+- 📫 How to reach me **madhurimadineni2004@gmail.com**
 
-- ?? Know about my experiences [https://drive.google.com/file/d/1VY6RrDhpjIw4ftNC06Twhea5of-SonUq/view?usp=sharing](https://drive.google.com/file/d/1VY6RrDhpjIw4ftNC06Twhea5of-SonUq/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1VY6RrDhpjIw4ftNC06Twhea5of-SonUq/view?usp=sharing](https://drive.google.com/file/d/1VY6RrDhpjIw4ftNC06Twhea5of-SonUq/view?usp=sharing)
 
-- ? Fun fact **I think i am funny**
+- ⚡ Fun fact **I think i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
