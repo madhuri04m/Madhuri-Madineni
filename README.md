@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/madhuri_21](https://linktr.ee/madhuri_21)
 
-- 💬 Ask me about **react,gccf,HTMl/CSS,Kubernets**
+- 💬 Ask me about **GCCF,HTMl/CSS,Kubernets**
 
 - 📫 How to reach me **madhurimadineni2004@gmail.com**
 
